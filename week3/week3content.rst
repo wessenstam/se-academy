@@ -35,7 +35,11 @@ Navigate
 --------
 Explain : Overview Prism. Follow Hardware > Storage > Virtual Machines > Analysis
 
-Content : laptop interactive
+Content : laptop interactive, movie of a |DEMO|
+
+..   |DEMO| raw:: html
+
+  <a href="https://drive.google.com/open?id=1jzMmHYpXHbysS_4-LoTMr_rjrtRAXzm-" target="_blank">demo</a>
 
 
 Hands on Labs

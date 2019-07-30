@@ -14,7 +14,7 @@ Data gathering
 
 Explain : Use the headings below to frame the common discovery questions, delve into each topic to further expand knowledge of IT
 
-Content : Interactive whiteboard
+Content : Interactive whiteboard, URL that can be used as an extra workshop http://ntnx.tips/sizingref
 
 -  Data gathering
 
@@ -46,7 +46,7 @@ Content : Interactive whiteboard
 
    - VMware environments can be scanned using a free tool called RVTools, this outputs all details of the VMs to a .CSV file which can be imported directly into Nutanix Sizer
 
-   - Dell's DPACK can scan and capture physical and virtual workloads over a period time providing utilisation metrics, better for environments where peak workload processing periods need to be taken into consideration. Note, Dell will be notified when a customer signs up so consider the impact for the opportunity
+   - Dell's LiveOptics can scan and capture physical and virtual workloads over a period time providing utilisation metrics, better for environments where peak workload processing periods need to be taken into consideration. Note, Dell will be notified when a customer signs up so consider the impact for the opportunity
 
 ----
 
